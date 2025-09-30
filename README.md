@@ -8,6 +8,8 @@ requests and data visualization with Pandas.
 - Python 3.12 or lower.  
 - Packages listed in `requirements.txt`.
 
+## Setup
+
 1. Clone the repository:
 
 ```bash
